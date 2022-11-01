@@ -1,4 +1,4 @@
-#Công cụ giúp bạn có thể treo tài khoản Discord 24/7
-# - Không thu thập dữ liệu Token của bạn
-# - Không thu phí
-# - Không virus
+Hiii, cảm ơn bạn đã ghé qua chương trình #treo-don-discord của mình
+Công cụ của mình sẽ giúp cho các bạn có thể treo tài khoản Discord online 24/7/365 thông qua REPLIT và UPTIMEBOT
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Chúc bạn sử dụng tool một cách hợp lí
