@@ -1,2 +1,4 @@
-# treo-don-discord
-Công cụ giúp bạn Online 24/7/365 tài khoản DIscord của bạn!
+#Công cụ giúp bạn có thể treo tài khoản Discord 24/7
+# - Không thu thập dữ liệu Token của bạn
+# - Không thu phí
+# - Không virus
