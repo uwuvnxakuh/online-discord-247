@@ -7,7 +7,7 @@ server.all("/", (req, res) => {
 
 function keepAlive() {
   server.listen(3000, () => {
-    console.log("Đã Treo Tài Khoản 24/7/365");
+    console.log("Đã Treo Tài Khoản Thành Công");
   });
 }
 

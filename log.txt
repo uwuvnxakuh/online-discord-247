@@ -62,11 +62,11 @@
       "funding": [
         {
           "type": "github",
-          "url": "https://github.com/sponsors/jimmywarting"
+          "url": "https://github.com/sponsors/uwuvnxakuh"
         },
         {
           "type": "github",
-          "url": "https://paypal.me/jimmywarting"
+          "url": "NONE"
         }
       ],
       "engines": {
